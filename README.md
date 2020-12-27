@@ -1,6 +1,9 @@
 # Michael Keleti
-K-State Student
-Hello
+Kansas State Computer Science Student
+### Currently Learning
+* JavaScript
+* MySQL
+* Django
 <!--
 **mkeleti/mkeleti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
