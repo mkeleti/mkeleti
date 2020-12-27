@@ -1,6 +1,6 @@
 # Michael Keleti
-###### K-State Student
-###### Computer Science
+K-State Student
+Hello
 <!--
 **mkeleti/mkeleti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
