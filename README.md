@@ -11,5 +11,8 @@ I am a Computer Science Undergrad at Kansas State University with an interest in
 ### My Weekly Activity:
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
