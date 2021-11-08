@@ -10,5 +10,6 @@ I am a Computer Science Undergrad at Kansas State University with an interest in
 
 ### My Weekly Activity:
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mkeleti&theme=tokyonight)](https://mkeleti.com)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
