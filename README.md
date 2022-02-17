@@ -12,7 +12,9 @@ I am a Computer Science Undergrad at Kansas State University with an interest in
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Total: 2 hrs 10 mins
+
+JavaScript   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
