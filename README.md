@@ -13,7 +13,8 @@ I am a Computer Science Undergrad at University of Kansas with an interest in Bl
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+TypeScript                   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀   63.30 %
+Other                        ⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.37 %
 ```
 
 <!--END_SECTION:waka-->
