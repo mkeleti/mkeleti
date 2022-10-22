@@ -3,11 +3,6 @@
 
 I am a Computer Science Undergrad at University of Kansas with an interest in Blockchain, Web Development, & Software Engineering.
 
-### My Github Stats:
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkeleti&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide=stars)](https://mkeleti.com)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkeleti&layout=compact&theme=tokyonight)](https://mkeleti.com)
-
 ### My Weekly Activity:
 
 <!--START_SECTION:waka-->
