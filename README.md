@@ -87,3 +87,6 @@ JavaScript               3 repos             █░░░░░░░░░░�
  Last Updated on 31/10/2022 00:49:57 UTC
 <!--END_SECTION:waka-->
 
+.. image:: https://wakatime.com/share/@mkeleti/b8955317-c0b7-4283-81eb-d6417af927d6.png
+    :target: https://wakatime.com/
+
