@@ -38,20 +38,18 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
           header: "Welcome to my Github! 👋"
-          subhead: "Just a student who codes. KU Undergrad"
+          subhead: "Just a student who codes. Member of ACM."
           footer: "![Wakatime-Stats-SVG](assets/waka-stats.svg)"
           customReadmeFile: |
             ## ${header}
 
             ${subhead}
-
-            ---
+            
+            ## Coding Metrics:
             
             <!--START_SECTION:waka-->
             
             <!--END_SECTION:waka-->
-            
-            ---
 
             ${footer}
               
