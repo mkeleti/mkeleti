@@ -3,7 +3,7 @@
 
 I am a Computer Science Undergrad at the University of Kansas with an interest in Blockchain, Web Development, & Software Engineering.
 
-### My Weekly Activity:
+## My stats:
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2016%20mins-blue)
