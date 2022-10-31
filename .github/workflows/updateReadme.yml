@@ -53,13 +53,15 @@ jobs:
 
             ${subhead}
             
-            ## Coding Metrics:
+            ### Coding Metrics:
+            
+            ---
             
             <!--START_SECTION:waka-->
             
             <!--END_SECTION:waka-->
 
-            ${footer}
+            
               
       - name: Insert Waka Metrics
         uses: anmol098/waka-readme-stats@master
