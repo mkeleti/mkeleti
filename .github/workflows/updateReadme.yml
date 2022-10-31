@@ -8,6 +8,7 @@ on:
   schedule:
     - cron: "*/60 12 * * 1"
     - cron: "*/60 12 * * 5"
+    - cron: "*/60 12 * * 3"
     
   workflow_dispatch:
 
@@ -27,8 +28,8 @@ jobs:
         uses: wow-actions/download-upload@v1
         with:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-          url: "https://wakatime.com/share/@mkeleti/dc7a70a8-a7d4-4f3f-ad76-30803196f596.svg"
-          dir: "./docs"
+          url: ${{ secrets.WAKA_SVG }}
+          dir: "./assets"
           filename: "waka-stats.svg"
 
       - name: Update GitHub Profile README
@@ -38,7 +39,7 @@ jobs:
         with:
           header: "Welcome to my Github! 👋"
           subhead: "Just a student who codes. KU Undergrad"
-          footer: "![Wakatime-Stat-SVG](docs/waka-stats.svg)"
+          footer: "![Wakatime-Stats-SVG](assets/waka-stats.svg)"
           customReadmeFile: |
             ## ${header}
 
@@ -62,7 +63,7 @@ jobs:
           SHOW_LOC_CHART: False
           SHOW_OS: False
           COMMIT_BY_ME: False
-          SHOW_LINES_OF_CODE: True
+          SHOW_LINES_OF_CODE: False
           SHOW_PROFILE_VIEWS: False
           SHOW_LANGUAGE_PER_REPO: False
           
