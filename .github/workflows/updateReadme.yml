@@ -29,7 +29,7 @@ jobs:
         with:
           header: "Welcome to my Github! 👋"
           subhead: "Just a student who codes. KU Undergrad"
-          footer: "![https://wakatime.com/share/@mkeleti/b8955317-c0b7-4283-81eb-d6417af927d6.png](https://wakatime.com/share/@mkeleti/b8955317-c0b7-4283-81eb-d6417af927d6.png)"
+          footer: "![https://wakatime.com/share/@mkeleti/ff2e5af7-cb40-4bae-9d27-b329930e3dd7.png](https://wakatime.com/share/@mkeleti/ff2e5af7-cb40-4bae-9d27-b329930e3dd7.png)"
           customReadmeFile: |
             ## ${header}
 
@@ -44,7 +44,6 @@ jobs:
             ---
 
             ${footer}
-              - uses: anmol098/waka-readme-stats@master
               
       - uses: anmol098/waka-readme-stats@master
         with:
