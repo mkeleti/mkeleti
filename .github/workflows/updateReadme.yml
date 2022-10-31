@@ -30,7 +30,15 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           url: ${{ secrets.WAKA_SVG }}
           dir: "./assets"
-          filename: "waka-stats.svg"
+          filename: "waka-langs.svg"
+          
+      - name: Download Waka-stats SVG 2
+        uses: wow-actions/download-upload@v1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          url: ${{ secrets.WAKA_SVG_2 }}
+          dir: "./assets"
+          filename: "waka-activs.svg"
 
       - name: Update GitHub Profile README
         uses: theboi/github-update-readme@v1.0
