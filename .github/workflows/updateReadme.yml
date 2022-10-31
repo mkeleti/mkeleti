@@ -61,7 +61,10 @@ jobs:
             
             <!--END_SECTION:waka-->
 
-            
+            <p align="center" >
+            <img width="50%" alt="Waka-stats" src="assets/waka-langs.svg"/>
+            <img width="50%" alt="Waka-stats-2" src="assets/waka-activs.svg"/>
+            </p>
               
       - name: Insert Waka Metrics
         uses: anmol098/waka-readme-stats@master
