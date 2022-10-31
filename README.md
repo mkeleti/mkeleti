@@ -76,5 +76,5 @@ eth-attack               2 hrs 23 mins       ██░░░░░░░░░�
 
 <p align="center" >
 <img width="49%" alt="Waka-stats" src="assets/waka-langs.svg"/>
-<img width="50%" alt="Waka-stats-2" src="assets/waka-activs.svg"/>
+<img width="49%" alt="Waka-stats-2" src="assets/waka-activs.svg"/>
 </p>
