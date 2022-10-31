@@ -2,7 +2,9 @@
 
 Just a student who codes. Member of ACM.
 
-## Coding Metrics:
+---
+
+### Coding Metrics:
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-148%20hrs%2049%20mins-blue)
