@@ -45,13 +45,13 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
-          header: "Welcome to my Github! 👋"
-          subhead: "Just a student who codes. Member of ACM."
+          header: "Welcome to my Github Profile! 👋"
+          subhead: "Just a student who codes. Member of the ACM."
           footer: "![Wakatime-Stats-SVG](assets/waka-stats.svg)"
           customReadmeFile: |
             ## ${header}
             
-            [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mkeleti)   [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/mkeleti/)   [![LeetCode](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mkeleti.com)
+            [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mkeleti)   [![MyWebsite](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mkeleti.com)
 
             ${subhead}
             
@@ -75,6 +75,12 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_LOC_CHART: False
           SHOW_OS: False
+          SHOW_TOTAL_CODE_TIME: False
+          SHOW_LANGUAGE: False
+          SHOW_COMMIT: False
+          SHOW_DAYS_OF_WEEK: True
+          SHOW_PROJECTS: True
+          SHOW_SHORT_INFO: False
           COMMIT_BY_ME: False
           SHOW_LINES_OF_CODE: False
           SHOW_PROFILE_VIEWS: False
