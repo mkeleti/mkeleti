@@ -9,22 +9,7 @@ Just a student who codes. Member of the ACM.
 ---
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-⌚︎ Time Zone: America/Chicago
-
-🔥 Editors: 
-Browser                  2 hrs 39 mins       ████████████████████████░   99.17% 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.83%
-
-🐱‍💻 Projects: 
-docker-eth-attack        2 hrs 41 mins       █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 19/12/2022 12:29:34 UTC
 <!--END_SECTION:waka-->
 
 <p align="center" >
