@@ -10,7 +10,6 @@ Just a student who codes. Member of the ACM.
 
 <!--START_SECTION:waka-->
 
- Last Updated on 02/01/2023 12:29:15 UTC
 <!--END_SECTION:waka-->
 
 <p align="center" >
