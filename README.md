@@ -9,7 +9,21 @@ Just a student who codes. Member of the ACM.
 ---
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
+```text
+🕑︎ Time Zone: America/Chicago
+
+🔥 Editors: 
+VS Code                  3 hrs 53 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+keleti                   3 hrs 38 mins       ███████████████████████░░   93.44 % 
+Unknown Project          15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+```
+
+
+ Last Updated on 01/03/2023 12:14:53 UTC
 <!--END_SECTION:waka-->
 
 <p align="center" >
