@@ -9,7 +9,20 @@ Just a student who codes. Member of the ACM.
 ---
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
+```text
+🕑︎ Time Zone: America/Chicago
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 10/03/2023 12:40:25 UTC
 <!--END_SECTION:waka-->
 
 <p align="center" >
