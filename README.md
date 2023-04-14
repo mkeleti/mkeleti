@@ -9,7 +9,33 @@ Just a student who codes. Member of the ACM.
 ---
 
 <!--START_SECTION:waka-->
+📅 **I'm Most Productive on Monday** 
 
+```text
+Monday                   799 commits         █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
+Tuesday                  525 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Wednesday                181 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+Thursday                 396 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+Friday                   792 commits         █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
+Saturday                 652 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
+Sunday                   382 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Chicago
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 14/04/2023 12:38:29 UTC
 <!--END_SECTION:waka-->
 
 <p align="center" >
